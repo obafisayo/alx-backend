@@ -1,4 +1,4 @@
-# # 0x02. Python - Async Comprehension
+# # 0x00. Pagination
 
 <p>This is Alx software Engineering backend specialization tutorial project which focus on how to write and use <b>Pagination</b> in python.</p>
 
